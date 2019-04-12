@@ -1,0 +1,3 @@
+[Fri Apr 12 11:07:31.170513 2019] [core:info] [pid 3157] [client 10.240.1.220:45876] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://derived-data-willb91.c9users.io/derived-data.html
+[Fri Apr 12 11:07:31.173250 2019] [mpm_prefork:notice] [pid 3140] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 12 11:07:31.173348 2019] [core:notice] [pid 3140] AH00094: Command line: 'apache2'
